@@ -1,0 +1,267 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Krysař",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Viktor Dyk",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-21T11:46:57.189Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_001.md",
+        "xhtml": "krysar_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_002.md",
+        "xhtml": "krysar_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_003.md",
+        "xhtml": "krysar_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_004.md",
+        "xhtml": "krysar_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_005.md",
+        "xhtml": "krysar_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_006.md",
+        "xhtml": "krysar_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_007.md",
+        "xhtml": "krysar_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_008.md",
+        "xhtml": "krysar_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_009.md",
+        "xhtml": "krysar_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_010.md",
+        "xhtml": "krysar_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_011.md",
+        "xhtml": "krysar_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_012.md",
+        "xhtml": "krysar_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_013.md",
+        "xhtml": "krysar_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_014.md",
+        "xhtml": "krysar_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_015.md",
+        "xhtml": "krysar_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_016.md",
+        "xhtml": "krysar_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_017.md",
+        "xhtml": "krysar_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_018.md",
+        "xhtml": "krysar_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_019.md",
+        "xhtml": "krysar_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_020.md",
+        "xhtml": "krysar_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_021.md",
+        "xhtml": "krysar_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_022.md",
+        "xhtml": "krysar_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_023.md",
+        "xhtml": "krysar_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_024.md",
+        "xhtml": "krysar_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_025.md",
+        "xhtml": "krysar_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_026.md",
+        "xhtml": "krysar_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_027.md",
+        "xhtml": "krysar_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_028.md",
+        "xhtml": "krysar_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_029.md",
+        "xhtml": "krysar_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_030.md",
+        "xhtml": "krysar_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_031.md",
+        "xhtml": "krysar_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krysar_032.md",
+        "xhtml": "krysar_032.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_krysar2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_venovani",
+      "MLP_verse_-I-_-12-0-",
+      "MLP_verse_-I-_-12-12-",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "dyk-krysar"
+    },
+    "generatedAt": 1642765617470
+  }
+}
