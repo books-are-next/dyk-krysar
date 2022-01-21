@@ -19,12 +19,12 @@
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
-      "br": "",
+      "br": "MLP_text_bez1radku MLP_text_bez1radku_-0-12- MLP_text_bez1radku_-12-0- ",
       "brBefore": "",
       "brAfter": "",
-      "blockquote": "",
+      "blockquote": "MLP_verse_-I-_-12-0- MLP_verse_-I-_-12-12- ",
       "figure": "",
-      "em": "",
+      "em": "MLP_venovani ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -33,6 +33,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "krysar_001.md",
@@ -93,7 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I"
           },
           {
             "filename": "krysar_007.md",
@@ -103,7 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II"
           },
           {
             "filename": "krysar_008.md",
@@ -113,7 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III"
           },
           {
             "filename": "krysar_009.md",
@@ -123,7 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IV"
           },
           {
             "filename": "krysar_010.md",
@@ -133,7 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V"
           },
           {
             "filename": "krysar_011.md",
@@ -143,7 +149,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VI"
           },
           {
             "filename": "krysar_012.md",
@@ -153,7 +160,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VII"
           },
           {
             "filename": "krysar_013.md",
@@ -163,7 +171,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VIII"
           },
           {
             "filename": "krysar_014.md",
@@ -173,7 +182,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IX"
           },
           {
             "filename": "krysar_015.md",
@@ -183,7 +193,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "X"
           },
           {
             "filename": "krysar_016.md",
@@ -193,7 +204,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XI"
           },
           {
             "filename": "krysar_017.md",
@@ -203,7 +215,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XII"
           },
           {
             "filename": "krysar_018.md",
@@ -213,7 +226,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIII"
           },
           {
             "filename": "krysar_019.md",
@@ -223,7 +237,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIV"
           },
           {
             "filename": "krysar_020.md",
@@ -233,7 +248,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XV"
           },
           {
             "filename": "krysar_021.md",
@@ -243,7 +259,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XVI"
           },
           {
             "filename": "krysar_022.md",
@@ -253,7 +270,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XVII"
           },
           {
             "filename": "krysar_023.md",
@@ -263,7 +281,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XVIII"
           },
           {
             "filename": "krysar_024.md",
@@ -273,7 +292,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XIX"
           },
           {
             "filename": "krysar_025.md",
@@ -283,7 +303,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XX"
           },
           {
             "filename": "krysar_026.md",
@@ -293,7 +314,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXI"
           },
           {
             "filename": "krysar_027.md",
@@ -303,7 +325,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXII"
           },
           {
             "filename": "krysar_028.md",
@@ -313,7 +336,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXIII"
           },
           {
             "filename": "krysar_029.md",
@@ -323,7 +347,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXIV"
           },
           {
             "filename": "krysar_030.md",
@@ -333,7 +358,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXV"
           },
           {
             "filename": "krysar_031.md",
@@ -343,7 +369,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "XXVI"
           },
           {
             "filename": "krysar_032.md",
@@ -365,10 +392,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Viktor Dyk",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-21T11:46:57.189Z",
-      "edition": "beletrie",
-      "publisherShort": "mkp",
-      "languageCode": "cs"
+      "modified": "2022-01-21T11:53:52.281Z"
     },
     "chapters": [
       {
@@ -402,157 +426,157 @@
         "xhtml": "krysar_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "krysar_006.md",
         "xhtml": "krysar_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "krysar_007.md",
         "xhtml": "krysar_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "krysar_008.md",
         "xhtml": "krysar_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "krysar_009.md",
         "xhtml": "krysar_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "krysar_010.md",
         "xhtml": "krysar_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "krysar_011.md",
         "xhtml": "krysar_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "krysar_012.md",
         "xhtml": "krysar_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "krysar_013.md",
         "xhtml": "krysar_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "krysar_014.md",
         "xhtml": "krysar_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X",
         "subtitleSuggest": "",
         "filename": "krysar_015.md",
         "xhtml": "krysar_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI",
         "subtitleSuggest": "",
         "filename": "krysar_016.md",
         "xhtml": "krysar_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII",
         "subtitleSuggest": "",
         "filename": "krysar_017.md",
         "xhtml": "krysar_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII",
         "subtitleSuggest": "",
         "filename": "krysar_018.md",
         "xhtml": "krysar_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV",
         "subtitleSuggest": "",
         "filename": "krysar_019.md",
         "xhtml": "krysar_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV",
         "subtitleSuggest": "",
         "filename": "krysar_020.md",
         "xhtml": "krysar_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI",
         "subtitleSuggest": "",
         "filename": "krysar_021.md",
         "xhtml": "krysar_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII",
         "subtitleSuggest": "",
         "filename": "krysar_022.md",
         "xhtml": "krysar_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII",
         "subtitleSuggest": "",
         "filename": "krysar_023.md",
         "xhtml": "krysar_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIX",
         "subtitleSuggest": "",
         "filename": "krysar_024.md",
         "xhtml": "krysar_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XX",
         "subtitleSuggest": "",
         "filename": "krysar_025.md",
         "xhtml": "krysar_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXI",
         "subtitleSuggest": "",
         "filename": "krysar_026.md",
         "xhtml": "krysar_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXII",
         "subtitleSuggest": "",
         "filename": "krysar_027.md",
         "xhtml": "krysar_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIII",
         "subtitleSuggest": "",
         "filename": "krysar_028.md",
         "xhtml": "krysar_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIV",
         "subtitleSuggest": "",
         "filename": "krysar_029.md",
         "xhtml": "krysar_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXV",
         "subtitleSuggest": "",
         "filename": "krysar_030.md",
         "xhtml": "krysar_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVI",
         "subtitleSuggest": "",
         "filename": "krysar_031.md",
         "xhtml": "krysar_031.xhtml"
@@ -625,6 +649,6 @@
       "user": "books-are-next",
       "repo": "dyk-krysar"
     },
-    "generatedAt": 1642765617470
+    "generatedAt": 1642766032616
   }
 }
