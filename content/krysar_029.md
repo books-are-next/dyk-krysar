@@ -2,7 +2,7 @@
 title: XXIV
 ---
 
-Pouze Sepp Jörgen stál a nechápal. Viděl dav jdoucí za krysařem. Slyšel zvuky slibující a toužící. Ale necítil s davem a píšťala k němu nemluvila. Nechal všechny z Hammeln přejít, oddán svému osudu. Jeho hladové oči hledaly Kätchen a Lori. Marně.
+  
 
 Sepp Jörgen, jehož osud byl chápat příliš pozdě, osaměl také tentokrát. Zástup ho minul, jako ho dosud všechno minulo; zástup šel za písní krysařovy píšťaly. Oh, jak je krásná sedmihradská země, dovede-li touha po ní tolik spáčů probudit!
 

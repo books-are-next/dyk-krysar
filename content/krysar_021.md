@@ -2,7 +2,7 @@
 title: XVI
 ---
 
-„U žíznivého člověka“ bylo pusto.
+  
 
 Stalo se to tím, že přišel cizinec v černém plášti magistra s řetězem na hrdle; cizinec, jehož jména nikdo z domácích neznal. Hned po příchodu cizincově počalo být některým podivně: cítili neklid a tvrdili, že cizinec páchne sírou. – – Pomalu se hosté vytráceli, vrha­jíce znepokojené pohledy na stůl, kde seděl cizinec sám. Poslední host odešel krátce před vstupem krysařovým.
 

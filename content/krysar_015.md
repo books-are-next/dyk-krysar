@@ -2,7 +2,7 @@
 title: X
 ---
 
-Ta noc v Hammeln byla prapodivná noc.
+  
 
 Podivné sny přepadaly Gottlieba Frosche.
 

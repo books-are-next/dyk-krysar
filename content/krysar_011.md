@@ -2,7 +2,7 @@
 title: VI
 ---
 
-Onoho dne ležel Sepp Jörgen na palouku poblíž své chaty, hlavu maje opřenu o kupu sena. Seno vonělo a Jörgen usnul malátným a těžkým spánkem.
+  
 
 Stalo se tehdy, že na Jörgenův palouk zabloudila dvě děvčata z Hammeln. Byla to Lora, dcera řezbáře Wolframa, a Kätchen, dcera pekaře Grilla. Obě měly plavý vlas a zvědavé oči a obě byly opilé mládím. Přicházely rozesmáté svou krásou a zkrásnělé svým smíchem. Spící rybář vzbudil jejich zvědavost. Připlížily se k spícímu po špičkách a dívaly se do jeho tváře – –.
 

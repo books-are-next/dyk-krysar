@@ -2,7 +2,7 @@
 title: XIX
 ---
 
-„Jsi smutná, Agnes,“ pravila matka.
+  
 
 Agnes se neusmála po celý den; Agnes nepromluvila po celý den. To vyburcovalo i unavené srdce matčino.
 
@@ -30,37 +30,37 @@ To vše znala Agnes a to vše slyšela. A na to vše vzpomínala dnes.
 
 Matka kynula hlavou. A zpívala slabým, třesoucím se hlasem:
 
-Sedmihradská země,  
-krásná jako sen —  
-Konejšivě, jemně  
-budí spáče den.
+> Sedmihradská země,  
+> krásná jako sen —  
+> Konejšivě, jemně  
+> budí spáče den.
 
-Sedmihradská země  
-smutek konejší.  
-Silnější v ní plémě,  
-lidé šťastnější.
+> Sedmihradská země  
+> smutek konejší.  
+> Silnější v ní plémě,  
+> lidé šťastnější.
 
-Hoře, zradu, vinu  
-plaší stráže kol.  
-V sedmi hradů stínu  
-není žal ni bol.
+> Hoře, zradu, vinu  
+> plaší stráže kol.  
+> V sedmi hradů stínu  
+> není žal ni bol.
 
 Zpěv unavil matku. Agnes pokračovala sama v písni jí začaté.
 
-Sedmihradská země,  
-krásná jako hřích.  
-Lesy hučí temně,  
-nepřehluší smích.
+> Sedmihradská země,  
+> krásná jako hřích.  
+> Lesy hučí temně,  
+> nepřehluší smích.
 
-Je to země jasu,  
-je to jiný svět.  
-Zpívá moře klasů,  
-šeptá květu květ.
+> Je to země jasu,  
+> je to jiný svět.  
+> Zpívá moře klasů,  
+> šeptá květu květ.
 
-Umí srdce zhojit  
-čarokrásným snem.  
-Dej nám, Bože, dojít  
-v sedmihradskou zem!
+> Umí srdce zhojit  
+> čarokrásným snem.  
+> Dej nám, Bože, dojít  
+> v sedmihradskou zem!
 
 Vroucně a touhyplně zněla v ústech Agnes závěrečná slova. Matka sepjala maně své zhublé, suché ruce. Naklonila hlavu a dumala.
 
@@ -86,5 +86,5 @@ A Agnes šla. Ve dveřích ohlédla se na matku. Kynula jí na pozdrav.
 
 A zpívala poslední verš písně:
 
-Dej nám, Bože, dojít  
-v sedmihradskou zem!
+> Dej nám, Bože, dojít  
+> v sedmihradskou zem!

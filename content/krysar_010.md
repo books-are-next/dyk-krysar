@@ -2,7 +2,7 @@
 title: V
 ---
 
-Nad krásným hansovním městem Hammeln, pýchou všech obyvatelů, týčí se vrch Koppel, který jest jejich nemenší pýchou.
+  
 
 V neděli opouštějí měšťané brány města a svátečně vyšňořeni stoupají na Koppel. Stoupání je prudké a pot řine se z jejich čel; ale jak krásný pohled odtud na celé město a na celý kraj!
 

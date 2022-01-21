@@ -2,7 +2,7 @@
 title: VIII
 ---
 
-V neděli, po slavné mši, bylo živo a rušno v hospodě „U Žíznivého člověka“.
+  
 
 Hospoda „U Žíznivého člověka“ byla nejslavnější a nejoblíbenější z toho, co mělo hansovní město Hammeln. Nikde jste široko daleko nepopili lepšího vína; a kuchařka krčmy, Černá Líza, mohla se s kteroukoli měřiti. Ani hlavy obce nepohrdaly vstupem do klenuté síně hostinské; měly svůj stůl pečlivě chráněný před vetřelci. Ony okoušely první nově došlé sudy; ony pronášely závažné a rozhodné slovo ve věcech kuchyně a veřejného mínění.
 

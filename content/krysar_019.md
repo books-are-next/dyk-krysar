@@ -2,7 +2,7 @@
 title: XIV
 ---
 
-Krysař vracel se k Hammeln. Neklid vypudil ho ze zdí města; ale mnohem dotěrněji ho tam vracel.
+  
 
 Krysař šel po kraji řeky. Tvořila záhyby, vinula se klikatě lesem, lukami a vrbovím.
 

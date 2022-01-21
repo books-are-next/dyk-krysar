@@ -2,7 +2,7 @@
 title: XV
 ---
 
-Od poslední návštěvy krysařovy „U Žíznivého člověka“ uplynula řada dní.
+  
 
 Nepřiměřená slova jeho, při odchodu řečená, vzbudila rozruch v krčmě. Nikdo si předtím – a bylo mnoho zpitých v krčmě Rögerově – nedovolil opovážlivého výroku proti rozšafným konšelům města. To mohl učiniti pouze někdo přespolní, někdo, o jehož minulosti a původu nic se nevědělo, ale vše se mohlo mysliti.
 

@@ -2,7 +2,7 @@
 title: XXVI
 ---
 
-Slyšel vše, co slyšeli lidé z Hammeln: hoře, lítost a naději. Píseň tragického rozpětí a píseň tragičtějšího osudu. Ale takřka už na odchodu z města slyšel něco, čeho neslyšeli odešlí.
+  
 
 Otevřeným oknem tichého domku zněl k němu pronikavý nářek dítěte.
 

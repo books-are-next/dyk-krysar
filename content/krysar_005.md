@@ -3,7 +3,7 @@ title: ''
 hiddenTitle: true
 ---
 
-Příteli Jaroslavu Kamprovi  
+_Příteli Jaroslavu Kamprovi  
    
 Viktor Dyk   
-září 1911
+září 1911_

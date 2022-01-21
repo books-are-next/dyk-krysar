@@ -2,7 +2,7 @@
 title: XXII
 ---
 
-Tak ji našel krysař, který také hledal marně. Našel ji, zříceninu něčeho, co bylo. Našel ji, sedící v koutku a hrající si s pestrým vyšíváním, prací odešlé. Když vstoupil krysař k ní, ukázala mu chlubivě a dětinsky vyšívání Agnes. Poté vypukla znovu v smích.
+  
 
 Krysař vzal ji za ruku. Snášela to trpělivě, ale lhostejně. Jinak byla veselá; její šílenství bylo milosrdné.
 
