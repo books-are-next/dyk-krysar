@@ -2,7 +2,7 @@
 title: III
 ---
 
-Sepp Jörgen, rybář, bydlil na břehu Vesery tam, kde se sbíhala s Ha­volou. Měl malý a chudý domek. Vedl život ubohý a nuzný.
+  
 
 Lidé všech cechů v Hammeln posmívali se ubožáku. Chápal tak příliš těžko. Byl to dobrý, ale těžkopádný hoch. Říkali, že se usmívá a pláče až příštího dne. A měli pravdu.
 

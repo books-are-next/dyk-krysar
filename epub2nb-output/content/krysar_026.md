@@ -2,7 +2,7 @@
 title: XXI
 ---
 
-Dlouhý Kristián mnul si vesele ruce, procházeje jizbou sem a tam.
+  
 
 Vrátil se do domu Berndta, pasíře, kde bydlil, z návštěvy u strýce Ondřeje. Strýc byl vážně churav; tři dny jím zmítala horečka. Panna Gertrud poslala pro kněze. Strýc sotvaže ho poznal. Duchovní útěcha nevrátila mu klid. Chvílemi blouznil, chvílemi chtěl vstáti a jíti k „Žíznivému člověku“. Chvílemi mluvil o ženách a o růžích; chvílemi zpovídal se z hříchů, z jakých hříchů!
 

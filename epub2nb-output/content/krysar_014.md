@@ -2,7 +2,7 @@
 title: IX
 ---
 
-Krysař přecházel neklidně síní.
+  
 
 S rozšířenými zornicemi hleděla na něho Agnes. Její oči nedovedly se odloučit od jeho kroků. Byl ve svém hněvu krásný. Jeho oči planuly znepokojujícím ohněm a všechny jeho pohyby zkrásněly. Agnes se zdálo, jako by vyrůstal; schoulila se bezděky více ve svém koutku u okna. Nebylo však kupodivu v této bázni nic děsivého: opojovala spíše. Vyrůstej, krysaři; krásná Agnes čeká.
 

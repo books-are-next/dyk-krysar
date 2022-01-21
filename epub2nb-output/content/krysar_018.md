@@ -2,7 +2,7 @@
 title: XIII
 ---
 
-Krysař jde. Jeho srdce je lehké. Setkání ranní bylo jen mrak, který pluje a rozptýlí se. Nyní je zcela jasné nebe. Nikdy takového nebe nebylo.
+  
 
 Všechny schopnosti krysařovy jako by se stupňovaly, ba zmnohonásobily. Vidí až daleko do hor; slyší nejvzdálenější a nejtišší zvuky. Kráčí, a jako by sedmimílové střevíce měl, rychle ubíhá cesta. Krysař jde; ale spíše se zdá, jako by krajina okolo něho přecházela. Zdi Hammeln jsou těsné; ulice příliš úzké. Krysař opouští Hammeln. Opouští je, aby se vrátil? Neví to sám. Jde branou. U brány sedí žebrák. Je slepý a starý; je skloněn chorobou i lety. Sedí a prosí.
 

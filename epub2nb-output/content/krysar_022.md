@@ -2,7 +2,7 @@
 title: XVII
 ---
 
-Stála ve dveřích jako tenkráte, když krysař lehké mysli a lehkého srdce vstupoval do města Hammeln. Ale nesmála se. Horečně, upjatě hleděly její oči do nočního temna. Stála čekajíc, jak se zdálo; ale nečekala štěstí, nýbrž osud. Stála přibita na dveře jako na svůj kříž.
+  
 
 Tiché kroky krysařovy ozvaly se a blížily. Horečka roztoužení nezachvěla však mladým tělem Agnes jako tolikrát; bezvládněji jen a resignovaněji poddávala se neznámé tíze. A její oči nevzplály očekáváním: zíraly dále sklesle, bez naděje a víry, že by mohla kdy ustoupit noc.
 

@@ -2,7 +2,7 @@
 title: XXV
 ---
 
-Řeka plyne. Plyne, nerušena osudy.
+  
 
 Rybářský člun se houpá na řece; ale Jörgena nenapadá rozprostříti sítě. Sedí na člunu a dumá.
 

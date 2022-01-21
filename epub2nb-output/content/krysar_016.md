@@ -2,7 +2,7 @@
 title: XI
 ---
 
-Také však krysař probděl noc.
+  
 
 Agnes usnula mezi láskou. Ale nevysvětlitelný neklid nedal spáti krysaři. Připadalo mu, že by ho někdo okradl, kdyby usnul. Ale kdo může okrásti krysaře?
 
@@ -56,7 +56,7 @@ Ale to bylo, co krysař nemohl. Posečkal na několik vteřin. Agnes usnula znov
 
 A krysař odcházel tiše, zcela tiše.
 
-Krysař vyšel do zahrady. Jaká to byla zahrada! Keře byly nové a záhony nové; stromy sypaly tolik květů na cestu.
+  
 
 Krysař zahleděl se na nebe. Bylo čisté a jasné a větší než včera. Den, ale v prvých počátcích. Slunce, ale ještě jako červánek.
 

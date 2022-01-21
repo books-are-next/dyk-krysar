@@ -2,7 +2,7 @@
 title: XX
 ---
 
-Řeka je časem jako přítel, který uklidňuje a těší.
+  
 
 Lehce plynou její vlny; hladina je lehce zčeřena. U břehu, v průhledné vodě, rejdí rybky. Sáhněte a dosáhnete. Pak přestává voda býti průhlednou, nepřestává však býti tichou.
 

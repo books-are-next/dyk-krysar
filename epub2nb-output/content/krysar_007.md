@@ -2,7 +2,7 @@
 title: II
 ---
 
-Byl to kout v dobrém hansovním městě Hammeln, kout tichý a opuštěný, skoro jako by města nebylo. Těžké vozy nehrčely tudy s náklady zboží; nehlučely tu trhy a nejezdili zde jezdci v bohaté zbroji. Ani procesí tudy nechodila. Pouze hlas zvonu zněl sem z chrámu svaté Trojice v Hammeln, hlas vážný a zádumčivý, ale z těch hlasů, kterým, poněvadž jsme je často slyšeli, zapomínáme naslouchati. Aspoň Agnes, otevřela-li své okénko, slyšela spíše jiné hlasy.
+  
 
 Bylať pod jejími okny zahrada v květu, kde zpívali jí ptáci, kde vše bzučelo životem a úsměvy na její pozdrav. V zahradě bylo tolik vůní, z nichž kterákoli dovedla opojovati. A Agnes se zdálo, že je květem mezi květy a vůní mezi vůněmi.
 

@@ -2,7 +2,7 @@
 title: IV
 ---
 
-Milenec jmenoval se Kristián. Říkali mu dlouhý Kristián.
+  
 
 Měl plavé vlasy a modré oči. Měl všechno, co může míti občan v Hammeln: počestné rodiče a zachovalé jméno a úctu k radnici a kostelu. Byl zaměstnán v obchodě svého strýce v podloubí náměstí v Hammeln. Byl to soukenný obchod, známý široko daleko. A ježto strýc Kristiánův byl bezdětek, kojil se Kristián nadějí, že se stane dědicem. Chyba byla ta, že strýc Ondřej, třeba nemladý, neustával ve svých záletech kupce, který může platiti, záletech pohoršujících město tak ctihodné. Dlouhý Kristián činil, co mohl. Odváděl pokušení od strýcovy cesty. Dohodil mu pannu Gertrudu, letilou a prostou svůdnosti, za hospodyni. Strýc Ondřej měl tak málo času pro své lásky. A tak kolísal Kristián mezi úzkostí a nadějí. Kromě toho miloval Agnes.
 

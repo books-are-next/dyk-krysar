@@ -2,7 +2,7 @@
 title: VII
 ---
 
-Noc byla vlahá a měsíčná. Náměstí v Hammeln bylo pusté. Ponocný minul starou, pamětihodnou kašnu, pýchu Hammelnských, kašnu s Neptunem a tritony. Zmizel někde v podloubí. Pak bylo ticho.
+  
 
 Pouze u vrat domu řezbáře Wolframa (také počestný mistr pekařský Grill v něm měl svůj krámek!) choulilo se cosi jako člověk, ale zhroucené nějak a nelidské. Mělo to oči, oh, jaké žíznivé oči, upřené na jediný bod!
 

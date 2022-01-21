@@ -2,7 +2,7 @@
 title: XII
 ---
 
-Stáli proti sobě.
+  
 
 Příchozí patřil zamračeně na krysaře. Podezíravé jeho oči hledaly, čeho se zachytiti; ale krysař, klidný, skoro mramorový, jim unikal. Pěst pravice Kristiánovy sevřela se bezděčně; výraz krysařův se však neměnil. Čekal. Kristián hledal slova; a jeho pobouření rostlo tím, že jich nenalézal.
 

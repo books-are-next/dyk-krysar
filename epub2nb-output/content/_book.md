@@ -47,7 +47,86 @@ tocBase:
       - link: krysar_005.html
         title: Věnování
         hiddenTitle: true
+      - link: krysar_006.html
+        title: I
+        hiddenTitle: false
+      - link: krysar_007.html
+        title: II
+        hiddenTitle: false
+      - link: krysar_008.html
+        title: III
+        hiddenTitle: false
+      - link: krysar_009.html
+        title: IV
+        hiddenTitle: false
+      - link: krysar_010.html
+        title: V
+        hiddenTitle: false
+      - link: krysar_011.html
+        title: VI
+        hiddenTitle: false
+      - link: krysar_012.html
+        title: VII
+        hiddenTitle: false
+      - link: krysar_013.html
+        title: VIII
+        hiddenTitle: false
+      - link: krysar_014.html
+        title: IX
+        hiddenTitle: false
+      - link: krysar_015.html
+        title: X
+        hiddenTitle: false
+      - link: krysar_016.html
+        title: XI
+        hiddenTitle: false
+      - link: krysar_017.html
+        title: XII
+        hiddenTitle: false
+      - link: krysar_018.html
+        title: XIII
+        hiddenTitle: false
+      - link: krysar_019.html
+        title: XIV
+        hiddenTitle: false
+      - link: krysar_020.html
+        title: XV
+        hiddenTitle: false
+      - link: krysar_021.html
+        title: XVI
+        hiddenTitle: false
+      - link: krysar_022.html
+        title: XVII
+        hiddenTitle: false
+      - link: krysar_023.html
+        title: XVIII
+        hiddenTitle: false
+      - link: krysar_024.html
+        title: XIX
+        hiddenTitle: false
+      - link: krysar_025.html
+        title: XX
+        hiddenTitle: false
+      - link: krysar_026.html
+        title: XXI
+        hiddenTitle: false
+      - link: krysar_027.html
+        title: XXII
+        hiddenTitle: false
+      - link: krysar_028.html
+        title: XXIII
+        hiddenTitle: false
+      - link: krysar_029.html
+        title: XXIV
+        hiddenTitle: false
+      - link: krysar_030.html
+        title: XXV
+        hiddenTitle: false
+      - link: krysar_031.html
+        title: XXVI
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -2,7 +2,7 @@
 title: XXIII
 ---
 
-A krysař zapískal na svou píšťalu.
+  
 
 Nebyl to však tenký, tlumený tón, kterým vábil myši. Zvuk zněl plně a mocně; srdce při něm prudce zabušilo, krok bezděčně se zrychlil a probouzelo se – tiše, oh, tiše! – vše, co dřímalo hluboko v nitru. Ale jak rychle tato píseň šla ze snu v život a z života v smrt! Jaké to tragické a veliké vzepětí! Jak jímavý a nezapomenutelný hlas!
 
