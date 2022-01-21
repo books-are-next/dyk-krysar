@@ -1,0 +1,609 @@
+{
+  "author": "Viktor Dyk",
+  "edition": "beletrie",
+  "identifier": "dyk-krysar-c25ed5e",
+  "languagecode": "cs",
+  "modified": "2022-01-21T11:46:57.189Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Krysař",
+  "revision": "c25ed5e",
+  "generatedAt": {
+    "date": "Fri Jan 21 2022 11:54:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642766077388
+  },
+  "documents": [
+    {
+      "title": "Krysař",
+      "file": "krysar_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "krysar_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krysař",
+      "file": "krysar_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "krysar_002.html",
+      "next": "krysar_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Krysař",
+      "file": "krysar_006.html",
+      "words": 987,
+      "chars": 5809,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 2,
+      "prev": "krysar_005.html",
+      "next": "krysar_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Krysař",
+      "file": "krysar_007.html",
+      "words": 284,
+      "chars": 1653,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 3,
+      "prev": "krysar_006.html",
+      "next": "krysar_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Krysař",
+      "file": "krysar_008.html",
+      "words": 376,
+      "chars": 2167,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 4,
+      "prev": "krysar_007.html",
+      "next": "krysar_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Krysař",
+      "file": "krysar_009.html",
+      "words": 223,
+      "chars": 1397,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 5,
+      "prev": "krysar_008.html",
+      "next": "krysar_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Krysař",
+      "file": "krysar_010.html",
+      "words": 312,
+      "chars": 1904,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 6,
+      "prev": "krysar_009.html",
+      "next": "krysar_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Krysař",
+      "file": "krysar_011.html",
+      "words": 476,
+      "chars": 2927,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 7,
+      "prev": "krysar_010.html",
+      "next": "krysar_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Krysař",
+      "file": "krysar_012.html",
+      "words": 840,
+      "chars": 4911,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 8,
+      "prev": "krysar_011.html",
+      "next": "krysar_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Krysař",
+      "file": "krysar_013.html",
+      "words": 1590,
+      "chars": 9979,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 9,
+      "prev": "krysar_012.html",
+      "next": "krysar_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Krysař",
+      "file": "krysar_014.html",
+      "words": 443,
+      "chars": 2803,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 10,
+      "prev": "krysar_013.html",
+      "next": "krysar_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Krysař",
+      "file": "krysar_015.html",
+      "words": 558,
+      "chars": 3511,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 11,
+      "prev": "krysar_014.html",
+      "next": "krysar_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Krysař",
+      "file": "krysar_016.html",
+      "words": 899,
+      "chars": 5354,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 12,
+      "prev": "krysar_015.html",
+      "next": "krysar_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Krysař",
+      "file": "krysar_017.html",
+      "words": 395,
+      "chars": 2380,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 13,
+      "prev": "krysar_016.html",
+      "next": "krysar_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Krysař",
+      "file": "krysar_018.html",
+      "words": 726,
+      "chars": 4261,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 14,
+      "prev": "krysar_017.html",
+      "next": "krysar_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Krysař",
+      "file": "krysar_019.html",
+      "words": 736,
+      "chars": 4225,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 15,
+      "prev": "krysar_018.html",
+      "next": "krysar_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Krysař",
+      "file": "krysar_020.html",
+      "words": 460,
+      "chars": 2849,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 16,
+      "prev": "krysar_019.html",
+      "next": "krysar_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Krysař",
+      "file": "krysar_021.html",
+      "words": 1552,
+      "chars": 9414,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 17,
+      "prev": "krysar_020.html",
+      "next": "krysar_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Krysař",
+      "file": "krysar_022.html",
+      "words": 666,
+      "chars": 4132,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 18,
+      "prev": "krysar_021.html",
+      "next": "krysar_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Krysař",
+      "file": "krysar_023.html",
+      "words": 985,
+      "chars": 6023,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 19,
+      "prev": "krysar_022.html",
+      "next": "krysar_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Krysař",
+      "file": "krysar_024.html",
+      "words": 456,
+      "chars": 2669,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 20,
+      "prev": "krysar_023.html",
+      "next": "krysar_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX • Krysař",
+      "file": "krysar_025.html",
+      "words": 228,
+      "chars": 1304,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 21,
+      "prev": "krysar_024.html",
+      "next": "krysar_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI • Krysař",
+      "file": "krysar_026.html",
+      "words": 428,
+      "chars": 2579,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 22,
+      "prev": "krysar_025.html",
+      "next": "krysar_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII • Krysař",
+      "file": "krysar_027.html",
+      "words": 392,
+      "chars": 2276,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 23,
+      "prev": "krysar_026.html",
+      "next": "krysar_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII • Krysař",
+      "file": "krysar_028.html",
+      "words": 621,
+      "chars": 3874,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 24,
+      "prev": "krysar_027.html",
+      "next": "krysar_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV • Krysař",
+      "file": "krysar_029.html",
+      "words": 586,
+      "chars": 3648,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 25,
+      "prev": "krysar_028.html",
+      "next": "krysar_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV • Krysař",
+      "file": "krysar_030.html",
+      "words": 311,
+      "chars": 1923,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 26,
+      "prev": "krysar_029.html",
+      "next": "krysar_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI • Krysař",
+      "file": "krysar_031.html",
+      "words": 498,
+      "chars": 2958,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 27,
+      "prev": "krysar_030.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Krysař",
+      "file": "colophon.html",
+      "words": 128,
+      "chars": 848,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "krysar_031.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 16161,
+      "chars": 97805,
+      "ideas": 788
+    },
+    "chapters": {
+      "words": 16028,
+      "chars": 96930,
+      "ideas": 763
+    }
+  }
+}
