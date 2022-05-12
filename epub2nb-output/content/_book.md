@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Krysař
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - krysar_002.html
+  - promo.html
   - krysar_005.html
   - krysar_006.html
   - krysar_007.html

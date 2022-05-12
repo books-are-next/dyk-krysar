@@ -49,7 +49,7 @@
             "filename": "krysar_002.md",
             "xhtml": "krysar_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -392,7 +392,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Viktor Dyk",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-21T12:04:25.153Z"
+      "modified": "2021-10-20T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -649,6 +649,6 @@
       "user": "books-are-next",
       "repo": "dyk-krysar"
     },
-    "generatedAt": 1642766665524
+    "generatedAt": 1652351421360
   }
 }

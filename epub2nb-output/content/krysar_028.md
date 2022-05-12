@@ -1,5 +1,6 @@
 ---
 title: XXIII
+contentType: prose
 ---
 
   

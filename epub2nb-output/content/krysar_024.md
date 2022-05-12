@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
   

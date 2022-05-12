@@ -1,21 +1,54 @@
 {
-  "author": "Viktor Dyk",
-  "edition": "beletrie",
-  "identifier": "dyk-krysar-d483b5d",
-  "languagecode": "cs",
-  "modified": "2022-01-21T11:46:57.189Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Krysař",
-  "revision": "d483b5d",
+  "author": "Viktor Dyk",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "dyk-krysar-1db804b",
+  "revision": "1db804b",
+  "readingOrder": [
+    "promo.html",
+    "krysar_005.html",
+    "krysar_006.html",
+    "krysar_007.html",
+    "krysar_008.html",
+    "krysar_009.html",
+    "krysar_010.html",
+    "krysar_011.html",
+    "krysar_012.html",
+    "krysar_013.html",
+    "krysar_014.html",
+    "krysar_015.html",
+    "krysar_016.html",
+    "krysar_017.html",
+    "krysar_018.html",
+    "krysar_019.html",
+    "krysar_020.html",
+    "krysar_021.html",
+    "krysar_022.html",
+    "krysar_023.html",
+    "krysar_024.html",
+    "krysar_025.html",
+    "krysar_026.html",
+    "krysar_027.html",
+    "krysar_028.html",
+    "krysar_029.html",
+    "krysar_030.html",
+    "krysar_031.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Jan 21 2022 12:05:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642766716670
+    "date": "Thu May 12 2022 10:38:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351897209
   },
   "documents": [
     {
-      "title": "Krysař",
-      "file": "krysar_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +56,7 @@
       "order": 0,
       "prev": null,
       "next": "krysar_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Krysař",
@@ -41,7 +66,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "krysar_002.html",
+      "prev": "promo.html",
       "next": "krysar_006.html",
       "toc": [
         {
@@ -54,7 +79,7 @@
       ]
     },
     {
-      "title": "I • Krysař",
+      "title": "I",
       "file": "krysar_006.html",
       "words": 984,
       "chars": 5794,
@@ -74,7 +99,7 @@
       ]
     },
     {
-      "title": "II • Krysař",
+      "title": "II",
       "file": "krysar_007.html",
       "words": 210,
       "chars": 1200,
@@ -94,7 +119,7 @@
       ]
     },
     {
-      "title": "III • Krysař",
+      "title": "III",
       "file": "krysar_008.html",
       "words": 353,
       "chars": 2043,
@@ -114,7 +139,7 @@
       ]
     },
     {
-      "title": "IV • Krysař",
+      "title": "IV",
       "file": "krysar_009.html",
       "words": 215,
       "chars": 1341,
@@ -134,7 +159,7 @@
       ]
     },
     {
-      "title": "V • Krysař",
+      "title": "V",
       "file": "krysar_010.html",
       "words": 295,
       "chars": 1788,
@@ -154,7 +179,7 @@
       ]
     },
     {
-      "title": "VI • Krysař",
+      "title": "VI",
       "file": "krysar_011.html",
       "words": 451,
       "chars": 2786,
@@ -174,7 +199,7 @@
       ]
     },
     {
-      "title": "VII • Krysař",
+      "title": "VII",
       "file": "krysar_012.html",
       "words": 811,
       "chars": 4725,
@@ -194,7 +219,7 @@
       ]
     },
     {
-      "title": "VIII • Krysař",
+      "title": "VIII",
       "file": "krysar_013.html",
       "words": 1576,
       "chars": 9904,
@@ -214,7 +239,7 @@
       ]
     },
     {
-      "title": "IX • Krysař",
+      "title": "IX",
       "file": "krysar_014.html",
       "words": 439,
       "chars": 2772,
@@ -234,7 +259,7 @@
       ]
     },
     {
-      "title": "X • Krysař",
+      "title": "X",
       "file": "krysar_015.html",
       "words": 551,
       "chars": 3474,
@@ -254,7 +279,7 @@
       ]
     },
     {
-      "title": "XI • Krysař",
+      "title": "XI",
       "file": "krysar_016.html",
       "words": 874,
       "chars": 5213,
@@ -274,7 +299,7 @@
       ]
     },
     {
-      "title": "XII • Krysař",
+      "title": "XII",
       "file": "krysar_017.html",
       "words": 392,
       "chars": 2363,
@@ -294,7 +319,7 @@
       ]
     },
     {
-      "title": "XIII • Krysař",
+      "title": "XIII",
       "file": "krysar_018.html",
       "words": 701,
       "chars": 4119,
@@ -314,7 +339,7 @@
       ]
     },
     {
-      "title": "XIV • Krysař",
+      "title": "XIV",
       "file": "krysar_019.html",
       "words": 719,
       "chars": 4130,
@@ -334,7 +359,7 @@
       ]
     },
     {
-      "title": "XV • Krysař",
+      "title": "XV",
       "file": "krysar_020.html",
       "words": 450,
       "chars": 2778,
@@ -354,7 +379,7 @@
       ]
     },
     {
-      "title": "XVI • Krysař",
+      "title": "XVI",
       "file": "krysar_021.html",
       "words": 1547,
       "chars": 9381,
@@ -374,7 +399,7 @@
       ]
     },
     {
-      "title": "XVII • Krysař",
+      "title": "XVII",
       "file": "krysar_022.html",
       "words": 621,
       "chars": 3862,
@@ -394,7 +419,7 @@
       ]
     },
     {
-      "title": "XVIII • Krysař",
+      "title": "XVIII",
       "file": "krysar_023.html",
       "words": 965,
       "chars": 5892,
@@ -414,7 +439,7 @@
       ]
     },
     {
-      "title": "XIX • Krysař",
+      "title": "XIX",
       "file": "krysar_024.html",
       "words": 451,
       "chars": 2634,
@@ -434,7 +459,7 @@
       ]
     },
     {
-      "title": "XX • Krysař",
+      "title": "XX",
       "file": "krysar_025.html",
       "words": 219,
       "chars": 1254,
@@ -454,7 +479,7 @@
       ]
     },
     {
-      "title": "XXI • Krysař",
+      "title": "XXI",
       "file": "krysar_026.html",
       "words": 417,
       "chars": 2514,
@@ -474,7 +499,7 @@
       ]
     },
     {
-      "title": "XXII • Krysař",
+      "title": "XXII",
       "file": "krysar_027.html",
       "words": 348,
       "chars": 2018,
@@ -494,7 +519,7 @@
       ]
     },
     {
-      "title": "XXIII • Krysař",
+      "title": "XXIII",
       "file": "krysar_028.html",
       "words": 615,
       "chars": 3840,
@@ -514,7 +539,7 @@
       ]
     },
     {
-      "title": "XXIV • Krysař",
+      "title": "XXIV",
       "file": "krysar_029.html",
       "words": 545,
       "chars": 3402,
@@ -534,7 +559,7 @@
       ]
     },
     {
-      "title": "XXV • Krysař",
+      "title": "XXV",
       "file": "krysar_030.html",
       "words": 306,
       "chars": 1889,
@@ -554,7 +579,7 @@
       ]
     },
     {
-      "title": "XXVI • Krysař",
+      "title": "XXVI",
       "file": "krysar_031.html",
       "words": 468,
       "chars": 2774,
@@ -574,11 +599,11 @@
       ]
     },
     {
-      "title": "Tiráž • Krysař",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 80,
-      "chars": 545,
-      "ideas": 11,
+      "words": 74,
+      "chars": 513,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "krysar_031.html",
@@ -596,9 +621,9 @@
   ],
   "totals": {
     "all": {
-      "words": 15608,
-      "chars": 94462,
-      "ideas": 750
+      "words": 15602,
+      "chars": 94430,
+      "ideas": 746
     },
     "chapters": {
       "words": 15523,

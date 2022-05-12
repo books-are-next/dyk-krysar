@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
   
