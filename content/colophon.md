@@ -2,15 +2,6 @@
 title: Tiráž
 ---
 
-***
-
-Krysař
-
-Viktor Dyk
-
-
-***
-
 Znění tohoto textu vychází z díla [Krysař](https://search.mlp.cz/cz/titul/krysar/2260894/#book-content) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1958. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/image003.jpg)
@@ -24,9 +15,3 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
   
 
 ![](../Images/image004.jpg)
-
-
-***
-
-Viktor Dyk  
-Krysař

@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
   

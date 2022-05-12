@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
   

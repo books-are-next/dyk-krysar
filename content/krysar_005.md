@@ -1,6 +1,7 @@
 ---
 title: ''
 hiddenTitle: true
+contentType: prose
 ---
 
 _Příteli Jaroslavu Kamprovi  
