@@ -3,7 +3,7 @@ title: XXI
 contentType: prose
 ---
 
-  
+<section>
 
 Vrátil se do domu Berndta, pasíře, kde bydlil, z návštěvy u strýce Ondřeje. Strýc byl vážně churav; tři dny jím zmítala horečka. Panna Gertrud poslala pro kněze. Strýc sotvaže ho poznal. Duchovní útěcha nevrátila mu klid. Chvílemi blouznil, chvílemi chtěl vstáti a jíti k „Žíznivému člověku“. Chvílemi mluvil o ženách a o růžích; chvílemi zpovídal se z hříchů, z jakých hříchů!
 
@@ -30,3 +30,5 @@ Nedočkal se však odpovědi. Matka, slyšíc slova, která jí brala naději, v
 Napadlo ho, že by měl něco učiniti, nechápal však co. Šílená smála se chvíli divoce a drásavě, pak zmizela ze dveří, aniž si Kristián uvědomil její odchod – –
 
 Šla domů, smějíc se; děti šly za ní. Smála se strašným svým smíchem. Chvílemi přerušila smích a rozezpívala se. Zpívala píseň o zemi sedmihradské.
+
+</section>

@@ -3,7 +3,7 @@ title: X
 contentType: prose
 ---
 
-  
+<section>
 
 Podivné sny přepadaly Gottlieba Frosche.
 
@@ -82,3 +82,5 @@ Bezděčně se Strumm ohlédl. Šílená úzkost zúžila jeho hrdlo.
 Tisíc oděvů proměnilo se v tisíc rubášů. A v středu rubášů viděl bledou líc vlastní, tvář Bonifáce Strumma; a druhý tento Strumm pravil jeho hlasem slavnostní formuli města Hammeln: „K tomu mi dopomáhej Bůh.“
 
 Také Bonifác Strumm neusnul už této noci.
+
+</section>

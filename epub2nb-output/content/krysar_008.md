@@ -3,7 +3,7 @@ title: III
 contentType: prose
 ---
 
-  
+<section>
 
 Lidé všech cechů v Hammeln posmívali se ubožáku. Chápal tak příliš těžko. Byl to dobrý, ale těžkopádný hoch. Říkali, že se usmívá a pláče až příštího dne. A měli pravdu.
 
@@ -22,3 +22,5 @@ Vše, co měl, byl drozd v kleci, kterého úzkostlivě ošetřoval. Dovedl to,
 Pták zpíval.
 
 A Sepp Jörgen žil, ničeho dále nečekaje.
+
+</section>

@@ -3,7 +3,7 @@ title: XI
 contentType: prose
 ---
 
-  
+<section>
 
 Agnes usnula mezi láskou. Ale nevysvětlitelný neklid nedal spáti krysaři. Připadalo mu, že by ho někdo okradl, kdyby usnul. Ale kdo může okrásti krysaře?
 
@@ -57,7 +57,9 @@ Ale to bylo, co krysař nemohl. Posečkal na několik vteřin. Agnes usnula znov
 
 A krysař odcházel tiše, zcela tiše.
 
-  
+</section>
+
+<section>
 
 Krysař zahleděl se na nebe. Bylo čisté a jasné a větší než včera. Den, ale v prvých počátcích. Slunce, ale ještě jako červánek.
 
@@ -104,3 +106,5 @@ Ale muž se blížil určitým krokem člověka, který má cíl.
 Srdce krysařovo bylo ještě tak těžké, jako by neslo hoře tisíců; ale lehkosti, která nosí radosti tisíců, nebylo už v něm.
 
 Každé dítě v Hammeln mohlo krysaři jmenovati muže zasta­vivšího se u plotu. Každé dítě znalo dlouhého Kristiána.
+
+</section>

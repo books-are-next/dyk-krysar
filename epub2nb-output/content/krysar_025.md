@@ -3,7 +3,7 @@ title: XX
 contentType: prose
 ---
 
-  
+<section>
 
 Lehce plynou její vlny; hladina je lehce zčeřena. U břehu, v průhledné vodě, rejdí rybky. Sáhněte a dosáhnete. Pak přestává voda býti průhlednou, nepřestává však býti tichou.
 
@@ -20,3 +20,5 @@ Ale uklidní se opět a opět plynou lehce její vlny.
 Někdo přichází k řece znaveným a váhavým krokem. Jde smutný a tichý. Usedne na břehu a dlouho pozoruje vody. A vody míjejí a míjejí a šeptají důvěrná konejšivá slova bolesti truchlící tam na břehu. A stín člověka, ne člověk sám, zdvihne se náhle rozhodnut. Tam, kde je řeka nejhlubší, vrhne se do konejšivých vln. Vrhne se do nich, aby jich ševelem umlčel hoře. A vlny ševelí a plynou; voda šplouná a bije do břehu. Jinak je ticho.
 
 Toť řeka opět jako těšitel.
+
+</section>

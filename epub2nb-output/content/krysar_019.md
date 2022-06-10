@@ -3,7 +3,7 @@ title: XIV
 contentType: prose
 ---
 
-  
+<section>
 
 Krysař šel po kraji řeky. Tvořila záhyby, vinula se klikatě lesem, lukami a vrbovím.
 
@@ -76,3 +76,5 @@ Není radno smáti se krysaři. Občané v Hammeln nyní většinou spí; ale m
 Tak rozumuje krysař; a zatímco rozumuje, zavírá se s rachotem za jeho zády brána města.
 
 Krysař se ohlédne. – Brána zavřena. – A jemu připadá, jako by se za ním zavírala nastražená past!
+
+</section>

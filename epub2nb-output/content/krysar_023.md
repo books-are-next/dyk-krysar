@@ -3,7 +3,7 @@ title: XVIII
 contentType: prose
 ---
 
-  
+<section>
 
 Krysař donesl Agnes na blízké lože. Nebyla by došla; její síly byly vyčerpány. Krysař sklonil se nad jejím bílým tělem, čekaje marně slovo, vysvětlení, zpověď.
 
@@ -15,7 +15,9 @@ Přes Hammeln šla noc. Všichni odpočívali mezi dvojí malostí, mezi dvojím
 
 Přes Hammeln šla noc. Všelijaké šly noci přes Hammeln. Krysař se pamatoval na kterousi z nich; byla to noc, kterou strávili tak neklidně Strumm a Frosch… noc, kterou krysař probděl. A opět a opět vtíraly se vzpomínky.
 
-  
+</section>
+
+<section>
 
 Její ruka hledala jeho ruku. Krysař sklonil se nad Agnes. – V měsíčním svitu byla její bledost ještě bledší a děsila krysaře. Oči obou se setkaly. Hleděl vážně a pátravě; ale v jejích očích nenašel bázeň, pouze smutek. A z jejího hrdla, v němž slova tak dlouho umírala, řinula se náhle slova tím bolestnější, že nevyčítala.
 
@@ -104,3 +106,5 @@ Odcházel.
 Agnes hleděla za ním, tehdy ještě, kdy ho tu dávno nebylo.
 
 Snad by nebyl krysař odešel, kdyby byl viděl výraz jejích očí.
+
+</section>

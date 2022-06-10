@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-1db804b';
+const CACHE = 'cache-f455b52';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./krysar_005.html","./krysar_006.html","./krysar_007.html","./krysar_008.html","./krysar_009.html","./krysar_010.html","./krysar_011.html","./krysar_012.html","./krysar_013.html","./krysar_014.html","./krysar_015.html","./krysar_016.html","./krysar_017.html","./index.html","./krysar_018.html","./krysar_019.html","./krysar_020.html","./krysar_021.html","./krysar_022.html","./krysar_023.html","./krysar_024.html","./krysar_025.html","./krysar_026.html","./krysar_027.html","./krysar_028.html","./krysar_029.html","./krysar_030.html","./krysar_031.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_krysar2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./krysar_005.html","./krysar_006.html","./krysar_007.html","./krysar_008.html","./krysar_009.html","./krysar_010.html","./krysar_011.html","./krysar_012.html","./krysar_013.html","./krysar_014.html","./krysar_015.html","./krysar_016.html","./krysar_017.html","./krysar_018.html","./krysar_019.html","./krysar_020.html","./krysar_021.html","./krysar_022.html","./krysar_023.html","./krysar_024.html","./krysar_025.html","./krysar_026.html","./krysar_027.html","./krysar_028.html","./krysar_029.html","./krysar_030.html","./krysar_031.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_krysar2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

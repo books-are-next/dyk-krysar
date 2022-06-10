@@ -3,7 +3,7 @@ title: XII
 contentType: prose
 ---
 
-  
+<section>
 
 Příchozí patřil zamračeně na krysaře. Podezíravé jeho oči hledaly, čeho se zachytiti; ale krysař, klidný, skoro mramorový, jim unikal. Pěst pravice Kristiánovy sevřela se bezděčně; výraz krysařův se však neměnil. Čekal. Kristián hledal slova; a jeho pobouření rostlo tím, že jich nenalézal.
 
@@ -46,3 +46,5 @@ Agnes ještě spala.
 Kristián hleděl na spící a hlavou mu hučela slova krysařova. – Ale spící byla stále zřetelnější a krysař zmizel v mlze.
 
 Agnes ještě spala, s dětským svým, nevinným výrazem.
+
+</section>

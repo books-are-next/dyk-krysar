@@ -3,7 +3,7 @@ title: XIX
 contentType: prose
 ---
 
-  
+<section>
 
 Agnes se neusmála po celý den; Agnes nepromluvila po celý den. To vyburcovalo i unavené srdce matčino.
 
@@ -89,3 +89,5 @@ A zpívala poslední verš písně:
 
 > Dej nám, Bože, dojít  
 > v sedmihradskou zem!
+
+</section>

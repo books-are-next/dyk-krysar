@@ -3,7 +3,7 @@ title: IX
 contentType: prose
 ---
 
-  
+<section>
 
 S rozšířenými zornicemi hleděla na něho Agnes. Její oči nedovedly se odloučit od jeho kroků. Byl ve svém hněvu krásný. Jeho oči planuly znepokojujícím ohněm a všechny jeho pohyby zkrásněly. Agnes se zdálo, jako by vyrůstal; schoulila se bezděky více ve svém koutku u okna. Nebylo však kupodivu v této bázni nic děsivého: opojovala spíše. Vyrůstej, krysaři; krásná Agnes čeká.
 
@@ -42,3 +42,5 @@ Jeho tvář dotýkala se její tváře, jeho tělo jejího těla. Agnes cítila 
 Srdce Agnes, před okamžikem prudce bušící, uklidnilo se náhle. Nebylo už v něm bázně.
 
 Před krátkem připadalo Agnes, jako by krysař chmurně a znepokojivě vzrůstal. Nyní však vyrůstala ona.
+
+</section>

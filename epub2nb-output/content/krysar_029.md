@@ -3,7 +3,7 @@ title: XXIV
 contentType: prose
 ---
 
-  
+<section>
 
 Sepp Jörgen, jehož osud byl chápat příliš pozdě, osaměl také tentokrát. Zástup ho minul, jako ho dosud všechno minulo; zástup šel za písní krysařovy píšťaly. Oh, jak je krásná sedmihradská země, dovede-li touha po ní tolik spáčů probudit!
 
@@ -46,3 +46,5 @@ Zvuky její jako by ještě doznívaly v pádu: zvuky její vedly krysaře, jak
 „Ano,“ odpovídal krysař němé propasti. A také on hledal bránu.
 
 Tak odešel krysař a ostatní z Hammeln; není však jisto, došli-li do země sedmihradské.
+
+</section>

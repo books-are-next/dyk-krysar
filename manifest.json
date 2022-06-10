@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dyk-krysar-1db804b",
-  "revision": "1db804b",
+  "identifier": "dyk-krysar-f455b52",
+  "revision": "f455b52",
   "readingOrder": [
     "promo.html",
     "krysar_005.html",
@@ -42,8 +42,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:38:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351897209
+    "date": "Fri Jun 10 2022 17:48:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883339941
   },
   "documents": [
     {
@@ -61,9 +61,9 @@
     {
       "title": "Krysař",
       "file": "krysar_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 10,
+      "chars": 47,
+      "ideas": 4,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -621,14 +621,14 @@
   ],
   "totals": {
     "all": {
-      "words": 15602,
-      "chars": 94430,
-      "ideas": 746
+      "words": 15612,
+      "chars": 94477,
+      "ideas": 750
     },
     "chapters": {
-      "words": 15523,
-      "chars": 93890,
-      "ideas": 735
+      "words": 15533,
+      "chars": 93937,
+      "ideas": 739
     }
   }
 }

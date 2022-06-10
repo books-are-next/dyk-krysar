@@ -3,7 +3,7 @@ title: XXIII
 contentType: prose
 ---
 
-  
+<section>
 
 Nebyl to však tenký, tlumený tón, kterým vábil myši. Zvuk zněl plně a mocně; srdce při něm prudce zabušilo, krok bezděčně se zrychlil a probouzelo se – tiše, oh, tiše! – vše, co dřímalo hluboko v nitru. Ale jak rychle tato píseň šla ze snu v život a z života v smrt! Jaké to tragické a veliké vzepětí! Jak jímavý a nezapomenutelný hlas!
 
@@ -38,3 +38,5 @@ Stále rostl počet těch, kteří šli za krysařem. Radnice se vyprázdnila; d
 Píšťala krysařova pudila dále. Zástup šel mlčky za ní. A ve všech těch zašlých srdcích, zubožených duších, zaprášených cestou, zkažených hříchy, ve všech těch srdcích vzbouzela se čistá jakás touha.
 
 A píšťala krysařova, když promluvila o bílých šatečkách družičky, úsměvu, dítěti, čistotě prvého snu, když promluvila o tolikerém hříchu a tolikeré zradě, o tolikeré neřesti a tolikerém kalu, o tolikeré bídě a tolikeré únavě, rozjásala se opět. A mezi pestrým zástupem lidí z Hammeln, sledujícím krysaře, radostně nějak to zašumělo. Nebylo nikoho, kdo by neporozuměl. Ano, jde se v zemi sedmihradskou. Ano, země sedmihradská čeká. Ano, je možno jinak žít. A všichni, muži, ženy, děti, opouštěli blátivý život Hammeln v touze, kterou napovídala krysařova píšťala. Matky tiskly nemluvňata prudčeji na svá prsa: bude to jiný život, krásnější život! A starci, téměř nad hrobem stojící, zrychlili krok: je ještě nutno urvati několik dní, několik hodin, několik vteřin krásnějšího života!
+
+</section>

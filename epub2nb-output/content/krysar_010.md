@@ -3,7 +3,7 @@ title: V
 contentType: prose
 ---
 
-  
+<section>
 
 V neděli opouštějí měšťané brány města a svátečně vyšňořeni stoupají na Koppel. Stoupání je prudké a pot řine se z jejich čel; ale jak krásný pohled odtud na celé město a na celý kraj!
 
@@ -24,3 +24,5 @@ Prošel sosnovým lesem a holým vrchem, kde se hřáli hadi v poledním slunc
 Stál až na okraji, mnohem dále, než se odvážil kdo z rodáků Ham­meln. Stál až na okraji a zdálo se, že mluví s propastí, milenkou sebevrahů.
 
 Jisto je, že propast lákala krysaře; stál nad ní zamyšlen a sám. Občanům v Hammeln nelíbil by se výraz jeho očí; nebyla tu pouze propast, ale byly tu dvě propasti.
+
+</section>
