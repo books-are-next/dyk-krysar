@@ -3,7 +3,7 @@ title: XXII
 contentType: prose
 ---
 
-  
+<section>
 
 Krysař vzal ji za ruku. Snášela to trpělivě, ale lhostejně. Jinak byla veselá; její šílenství bylo milosrdné.
 
@@ -38,3 +38,5 @@ Jak mohl zapomenouti na píšťalu? V ní je všechna jeho moc a kouzlo. Necht
 Tehdy se bál; dnes se nebojí.
 
 Nic není jiného, co by mohlo uleviti jeho bolesti. Nic není jiného, co by mohlo přehlušiti hrozný smích této šílené. Nic není jiného, co by mohlo pomstíti ho za Hammeln. Ať si mluví konšelé o stu rýnských. Ne proto zazní píšťala krysařova.
+
+</section>

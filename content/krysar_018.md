@@ -3,7 +3,7 @@ title: XIII
 contentType: prose
 ---
 
-  
+<section>
 
 Všechny schopnosti krysařovy jako by se stupňovaly, ba zmnohonásobily. Vidí až daleko do hor; slyší nejvzdálenější a nejtišší zvuky. Kráčí, a jako by sedmimílové střevíce měl, rychle ubíhá cesta. Krysař jde; ale spíše se zdá, jako by krajina okolo něho přecházela. Zdi Hammeln jsou těsné; ulice příliš úzké. Krysař opouští Hammeln. Opouští je, aby se vrátil? Neví to sám. Jde branou. U brány sedí žebrák. Je slepý a starý; je skloněn chorobou i lety. Sedí a prosí.
 
@@ -66,3 +66,5 @@ Výraz Jörgenův byl zoufale směšný. Ale krysař se nesmál.
 „Budu se muset vrátit,“ mínil rybář. „Je to daleko a proti proudu. Bude to těžká cesta. A mé sítě jsou prázdné; bude to hladový den.“
 
 Výraz Jörgenův stal se ještě žalostnějším. Ale také nyní odolal krysař smíchu. – Vzpomněl si na slova pronesená nedávné noci: „Mějte ženy, ale nedopouštějte, aby ženy měly vás.“
+
+</section>

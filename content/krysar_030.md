@@ -3,7 +3,7 @@ title: XXV
 contentType: prose
 ---
 
-  
+<section>
 
 Rybářský člun se houpá na řece; ale Jörgena nenapadá rozprostříti sítě. Sedí na člunu a dumá.
 
@@ -38,3 +38,5 @@ Jörgen posléze chápal, stoje tváří v tvář Ukřižovanému. Všichni ode
 Zvuky píšťaly krysařovy ožily v jeho paměti; zaniknuvší tóny teprve nyní ho podmaňovaly. Kouzlo, kterému podlehli všichni v Hammeln, podmanilo rybáře, přeživšího okouzlovatele.
 
 A rybář kráčel po stopách krysaře a těch, kdo šli za ním. Kráčel, domnívaje se slyšeti zvuky píšťaly.
+
+</section>

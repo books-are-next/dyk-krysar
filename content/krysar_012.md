@@ -3,7 +3,7 @@ title: VII
 contentType: prose
 ---
 
-  
+<section>
 
 Pouze u vrat domu řezbáře Wolframa (také počestný mistr pekařský Grill v něm měl svůj krámek!) choulilo se cosi jako člověk, ale zhroucené nějak a nelidské. Mělo to oči, oh, jaké žíznivé oči, upřené na jediný bod!
 
@@ -62,3 +62,5 @@ Nezdálo se, že by si byl rybář všiml jeho odchodu. Chápal všechno příli
 Krysař zaměřil zatím do tiché uličky, k domku, kde bydlila Agnes. Zaklepal na okno.
 
 Okno se otevřelo a také dveře.
+
+</section>

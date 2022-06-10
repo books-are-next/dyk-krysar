@@ -3,7 +3,7 @@ title: XV
 contentType: prose
 ---
 
-  
+<section>
 
 Nepřiměřená slova jeho, při odchodu řečená, vzbudila rozruch v krčmě. Nikdo si předtím – a bylo mnoho zpitých v krčmě Rögerově – nedovolil opovážlivého výroku proti rozšafným konšelům města. To mohl učiniti pouze někdo přespolní, někdo, o jehož minulosti a původu nic se nevědělo, ale vše se mohlo mysliti.
 
@@ -36,3 +36,5 @@ Krysař rozuměl: ano, chce, aby šel k „Žíznivému člověku“. Toť moc,
 Ďábel smál se ještě; krysař to věděl, třeba ho neviděl. Kráčelť už temnou uličkou k „Žíznivému člověku“. Po ulicích zdvihal se vítr. Když míjel krysař zahradu Uršuly, vdovy po pláteníku Lampovi, zdálo se mu, že všechny květy v zahradě chvějí se zimou.
 
 Ale třeba vítr, který se zdvihl, fičel dotěrně a nepřívětivě, nezachvěl se krysař.
+
+</section>

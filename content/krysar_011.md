@@ -3,7 +3,7 @@ title: VI
 contentType: prose
 ---
 
-  
+<section>
 
 Stalo se tehdy, že na Jörgenův palouk zabloudila dvě děvčata z Hammeln. Byla to Lora, dcera řezbáře Wolframa, a Kätchen, dcera pekaře Grilla. Obě měly plavý vlas a zvědavé oči a obě byly opilé mládím. Přicházely rozesmáté svou krásou a zkrásnělé svým smíchem. Spící rybář vzbudil jejich zvědavost. Připlížily se k spícímu po špičkách a dívaly se do jeho tváře – –.
 
@@ -32,3 +32,5 @@ Slova Lořina, končící dušeným smíchem, probudila spáče. Prvý okamžik 
 Nechápavě a němě hleděl rybář na smíšky. Pak povstával pomalu a ještě všecek zahleděn na Kätchen a Loru. Ale to přesahovalo míru. Kätchen a Lora vzpomněly si náhle, že nebylo by radno dáti se spatřiti v společnosti Seppa Jörgena, jehož směšnost vynikla tak náhle u bdícího. Zmizely, dříve než Jörgen se mohl vzpamatovati. Ale ještě z dálky bylo možno slyšet jejich neukrotitelný smích.
 
 Sepp Jörgen stál a nechápal; bylo tomu vždycky tak.
+
+</section>

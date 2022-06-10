@@ -3,7 +3,7 @@ title: XVII
 contentType: prose
 ---
 
-  
+<section>
 
 Tiché kroky krysařovy ozvaly se a blížily. Horečka roztoužení nezachvěla však mladým tělem Agnes jako tolikrát; bezvládněji jen a resignovaněji poddávala se neznámé tíze. A její oči nevzplály očekáváním: zíraly dále sklesle, bez naděje a víry, že by mohla kdy ustoupit noc.
 
@@ -44,3 +44,5 @@ Neodpověděla. Tápali oba němě tmou; a třeba ji znali z minulých nocí, 
 Hodiny bily na věži. Jednotvárně tento zvuk rozesnil krysaře na tři čtyři vteřiny. Ale pak ho probudil zoufalý a bezútěšný výkřik Agnes, která kdysi se tak usmívala do jarní noci:
 
 „Můj Bože!“
+
+</section>

@@ -3,7 +3,7 @@ title: XXVI
 contentType: prose
 ---
 
-  
+<section>
 
 Otevřeným oknem tichého domku zněl k němu pronikavý nářek dítěte.
 
@@ -56,3 +56,5 @@ Pláč dítěte dojal posledního muže z Hammeln; pláč nemluvněte překonal
 Kynul bezmocně rukou na pozdrav někomu, kdo navždy odchází. Rozloučil se s propastí.
 
 Potom odešel hledat ženu, která by dala napít dítěti.
+
+</section>

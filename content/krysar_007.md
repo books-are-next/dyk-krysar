@@ -3,7 +3,7 @@ title: II
 contentType: prose
 ---
 
-  
+<section>
 
 Bylať pod jejími okny zahrada v květu, kde zpívali jí ptáci, kde vše bzučelo životem a úsměvy na její pozdrav. V zahradě bylo tolik vůní, z nichž kterákoli dovedla opojovati. A Agnes se zdálo, že je květem mezi květy a vůní mezi vůněmi.
 
@@ -22,3 +22,5 @@ Byla to událost pro Hammeln. Děti a staří provázeli ho na jeho cestách. D
 A vlny řeky přijaly krysy a pohltily je. – Vlny řeky je přijaly a nesly do moře, do vzdáleného moře; nikdy už neporuší dobré chuti ctihodných kupců hansovního města.
 
 Krysař vyháněl krysy; ale kromě toho byl jiný důvod jeho pobytu v Hammeln.
+
+</section>

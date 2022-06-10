@@ -3,7 +3,7 @@ title: XVI
 contentType: prose
 ---
 
-  
+<section>
 
 Stalo se to tím, že přišel cizinec v černém plášti magistra s řetězem na hrdle; cizinec, jehož jména nikdo z domácích neznal. Hned po příchodu cizincově počalo být některým podivně: cítili neklid a tvrdili, že cizinec páchne sírou. – – Pomalu se hosté vytráceli, vrha­jíce znepokojené pohledy na stůl, kde seděl cizinec sám. Poslední host odešel krátce před vstupem krysařovým.
 
@@ -186,3 +186,5 @@ Ostrý vítr fičel ulicemi a šlehal do tváří krysařových.
 Když se ocitl před chrámem svaté Trojice, zahleděl se krysař do výše, tam, kde slyšel ďábla se smát – –
 
 Nakláněl se ještě nad Hammeln. – Bylo možno říci, že se ještě směje… A bylo možno slyšeti jeho slova, posměšná a jízlivá slova – „Jdi – jdi ještě, krysaři!“
+
+</section>
