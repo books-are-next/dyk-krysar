@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dyk-krysar-f455b52",
-  "revision": "f455b52",
+  "identifier": "dyk-krysar-dde2616",
+  "revision": "dde2616",
   "readingOrder": [
     "promo.html",
     "krysar_005.html",
@@ -42,8 +42,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:48:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883339941
+    "date": "Sat Jun 11 2022 11:56:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948576593
   },
   "documents": [
     {
