@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dyk-krysar-1a7b51d",
-  "revision": "1a7b51d",
+  "identifier": "dyk-krysar-638984c",
+  "revision": "638984c",
   "readingOrder": [
     "promo.html",
     "krysar_005.html",
@@ -42,8 +42,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:53:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157209634
+    "date": "Wed Jun 15 2022 05:48:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272108219
   },
   "documents": [
     {
@@ -601,9 +601,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 74,
-      "chars": 513,
-      "ideas": 7,
+      "words": 89,
+      "chars": 626,
+      "ideas": 8,
       "role": "colophon",
       "order": null,
       "prev": "krysar_031.html",
@@ -621,9 +621,9 @@
   ],
   "totals": {
     "all": {
-      "words": 15612,
-      "chars": 94477,
-      "ideas": 750
+      "words": 15627,
+      "chars": 94590,
+      "ideas": 751
     },
     "chapters": {
       "words": 15533,
