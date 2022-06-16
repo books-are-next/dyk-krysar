@@ -12,6 +12,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   languageCode: cs
+  contentType: prose
 readingOrder:
   - promo.html
   - krysar_005.html
