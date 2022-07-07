@@ -42,7 +42,7 @@ readingOrder:
   - krysar_029.html
   - krysar_030.html
   - krysar_031.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
